@@ -2,6 +2,8 @@
 -- von Nex4rius
 -- https://github.com/Nex4rius/Nex4rius-Programme/
 
+-- das geht solange sensor label andere namen haben
+
 os.sleep(2)
 
 local io              = io
